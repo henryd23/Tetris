@@ -1,4 +1,6 @@
-# Tetris for the LandTiger LPC1768
+﻿# Tetris for the LandTiger LPC1768
+
+![Tetris gameplay example](tetris.jpg)
 
 This project was developed for the **Computer Architectures** course at **Politecnico di Torino**.
 
